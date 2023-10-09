@@ -7,4 +7,7 @@ You can experiment with the constants on the top of the AstroScene for creating 
 
 Tap to the screen for spawning objects on the example project. 
 
+Demo
+---
+
 ![alt tag](./astro.gif)
